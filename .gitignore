@@ -1,0 +1,17 @@
+# Ignorar las variables de entorno
+/api-track-mate/.env
+/client-track-mate/.env
+
+# Ignorar los archivos de dependencias
+/api-track-mate/node_modules/
+/client-track-mate/node_modules/
+
+# Ignorar los archivos de build
+/api-track-mate/build/
+/client-track-mate/build/
+
+# Ignorar archivos y directorios generados por IDEs
+.vscode/
+.idea/
+*.iml
+*.log
